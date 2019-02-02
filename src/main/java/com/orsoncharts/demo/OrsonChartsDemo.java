@@ -98,8 +98,8 @@ public class OrsonChartsDemo extends JFrame implements ActionListener {
      */
     private JMenuBar createMenuBar() {
         JMenuBar menuBar = new JMenuBar();
-        menuBar.add(createFileMenu("File"));
-        menuBar.add(createStyleMenu("Style"));
+        menuBar.add(createFileMenu("Archivo"));
+        menuBar.add(createStyleMenu("Estilo"));
         return menuBar;
     }
     
